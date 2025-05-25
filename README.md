@@ -32,8 +32,8 @@ wget -q https://raw.githubusercontent.com/frosi4524/alpha.v2/refs/heads/main/upd
 ```
 
 ### SUPPORT OS LINUX
-- UBUNTU 20.04.05
-- DEBIAN 10
+- UBUNTU 20.04.05 & 22
+- DEBIAN 11
 
 ### SETTING CLOUDFLARE
 ```
